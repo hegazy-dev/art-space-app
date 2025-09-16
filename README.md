@@ -7,7 +7,7 @@ This is the final project for Unit 2 of the "Android Basics with Compose" course
 This project combines state management, UI layout, and user interaction to create a complete, small-scale application. It demonstrates the ability to manage the state of a collection of data and update the UI accordingly.
 
 ## Screenshot
-![App Screenshot](./screenshots/art-space.jpg)
+![App Screenshot](./screenshots/art-apace.jpg)
 
 ## Key Learnings
 
